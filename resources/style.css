@@ -1,0 +1,27 @@
+body {
+    background-color: darkblue;
+}
+
+#container {
+    background-color: darkgoldenrod;
+    border: 5px solid white;
+    height: 275px;
+    width: 40%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+#button {
+    margin: 30px auto;
+    height: auto;
+    width: 60%;
+    font-size: 20px;
+    background-color: gray;
+}
+
+#output {
+    margin: 10px auto;
+    font-size: 26px;
+    color: white;
+    height: auto;
+}
